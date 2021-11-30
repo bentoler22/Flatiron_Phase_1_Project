@@ -18,4 +18,5 @@ The analysis deployed in this project includes using summary statistics for grou
 
 ![gross_and_net_by_genre](./images/gross_and_net_by_genre.png)
 
+## Conclusions
 
