@@ -16,9 +16,7 @@ The analysis deployed in this project includes using summary statistics for grou
 
 ## Results
 
-![gross_and_net_by_genre](./images/gross_and_net_by_genre.png)
-
-![ROI_by_genre](./images/ROI_by_genre.png)
+![gross_and_net_by_genre](./images/gross_and_net_by_genre.png) | ![ROI_by_genre](./images/ROI_by_genre.png)
 
 ![profit_by_month](./images/profit_by_month.png)
 
