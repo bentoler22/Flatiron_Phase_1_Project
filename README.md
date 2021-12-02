@@ -20,6 +20,7 @@ Animation, sci-fi, and adventure genres produce the greatest average gross and n
 ![genre_bar_charts](./images/genre_bar_charts.png) 
 
 The summer months of May, June, and July see the highest profits for movies. There also a significant spike in movie profits at the beginning of the holiday season in November
+
 ![profit_by_month](./images/profit_by_month.png)
 
 Production budget is most strongly correlated with profits and has a weaker positive correlation with movie ratings. There is no correlation between a movie's budget and its return on investment.
