@@ -33,7 +33,8 @@ Production budget is most strongly correlated with profits and has a weaker posi
 
 ## Next Steps
  - **Determine what factors impact ratings:** The analysis conducted revealed the effects of several movie elements on profits and ROI; however, each of thos elements showed no substanital effect on ratings. Future analysis should focus on identifying movie attributes to impact ratings.
- - **Explore the impact of cast and crew on movie profits:** This analysis could determine where the studio needs to invests in experienced 
+ - **Explore the impact of cast and crew on movie success:** This analysis could identify which cast and crew positions (i.e directors, actors, writers) are most crucial to the the success of a movie.
+ - **Analyze the influence that streaming platforms have had on box office returns:** In recent years, streaming platforms have become more prevelant. Looking at the overall trend of box office gross profits could lend insight into the impact streaming has had on the movie industry.
 
 
 
