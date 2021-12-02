@@ -32,7 +32,7 @@ Production budget is most strongly correlated with profits and has a weaker posi
  - **Release new movies during the summer and holiday months:** May, June, and July are the prime months for releasing new movies as schools are starting to close and people are taking time off. Aditionally, the beginning of the the holiday season in Novmber offers a good opporutinty for movie releases.
 
 ## Next Steps
- - **Determine what factors impact ratings:** The analysis conducted revealed the effects of several movie elements on profits and ROI; however, each of those elements showed no substanital effect on ratings. Future analysis should focus on identifying movie attributes to impact ratings.
+ - **Determine what factors impact ratings:** The analysis conducted revealed the effects of several movie elements on profits and ROI; however, each of those elements showed no substanital effect on ratings. Future analysis should focus on identifying movie attributes that impact ratings.
  - **Explore the impact of cast and crew on movie success:** This analysis could identify which cast and crew positions (i.e directors, actors, writers) are most crucial to the the success of a movie.
  - **Analyze the influence that streaming platforms have had on box office returns:** In recent years, streaming platforms have become more prevelant. Looking at the overall trend of box office gross profits could lend insight into the impact streaming has had on the movie industry.
 
