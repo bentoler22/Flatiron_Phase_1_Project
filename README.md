@@ -27,15 +27,13 @@ Production budget is most strongly correlated with profits and has a weaker posi
 ![production_budget_correlations](./images/production_budget_correlations.png)
 
 ## Conclusions
- - Focus primarily on larger budget movies that will generate higher total profits
- - Develop animated, sci-fi, and adventure movies. Fill out content with lower budget mystery and horror movies that provide a greater return on investment
- - Movies should be released during the summer or holiday months
+ - **Invest in large budget movies in the anmiation, sci-fi, and adventrue genres:** Micrsoft is a multi-trillion dollar company. For their new movie studio to have a susbtantial impact they will need genereate sizable profits. This is most likely to occur in large budget productions in the animation, sci-fi, and adventure generes.
+ - **Fill out movie catalogue with lower budget mystery and horror films:** While the primary focus should be on big budget movies, lower budget mystery and horror movies offer a strogner retrun on investment and can help fill out the new studio's movie collection.
+ -**Release new movies during the summer and holiday months:** May, June, and July are the prime months for releasing new movies as schools are starting to close and people are taking time off. Aditionally, the beginning of the the holiday season in Novmber offers a good opporutinty for movie releases.
 
 ## Next Steps
- - Determine what factors impact ratings
- - Explore the impact of cast and crew on movie profits
- - Analyze the impact that streaming services have had on box office profits
-
+ - **Determine what factors impact ratings:** The analysis conducted revealed the effects of several movie elements on profits and ROI; however, each of thos elements showed no substanital effect on ratings. Future analysis should focus on identifying movie attributes to impact ratings.
+ - **Explore the impact of cast and crew on movie profits:** This analysis could determine where the studio needs to invests in experienced 
 
 
 
