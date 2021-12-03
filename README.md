@@ -17,12 +17,15 @@ The analysis deployed in this project uses trending and summary statistics to ev
 
 ## Results
 Production budget is strongly correlated with movie gross profits; however, there is no correlation between budget and ROI.
+
 ![production_budget_vs_gross_and_ROI](./images/production_budget_vs_gross_and_ROI.png)
 
 Animation, sci-fi, and adventure genres produce the greatest gross profit on average. Mystery and horror movies provide the best return on investment.
+
 ![gross_and_ROI_by_genre](./images/gross_and_ROI_by_genre.png)
 
 The summer months from May to July and the holiday months from November to December have seen the greatest sum of profits in the last decade.
+
 ![sum_gross_by_month](./images/sum_gross_by_month.png)
 
 ## Conclusions
