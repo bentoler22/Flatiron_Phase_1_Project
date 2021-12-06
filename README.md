@@ -13,18 +13,18 @@ Microsoft is planning on starting their own movie studio, but they are lacking i
 This project uses datasets from IMBD and The Numbers. The IMDb dataset contains information on various movie attributes, including region of production and genre. IMDb includes movies from 2010 and after, each with their own unique ID. The Numbers provides data on release dates and  movie financials from movies between 1915 to 2020.
 
 ## Method
-The analysis deployed in this project uses trending and summary statistics to evaluate the impact of various elements on a movie's success. Success is measured by a movie's gross profit, rating, and/or return on investment (ROI).
+The analysis deployed in this project uses trending and summary statistics to evaluate the impact of various elements on a movie's success. Success is measured by a movie's worldwide gross profit, return on investment, adn/or rating (ROI).
 
 ## Results
-Production budget is psotively correlated with gross profits and ratings.
+Production budget is psotively correlated with worldwide gross profits and ratings.
 
 ![production_budget_vs_gross_and_rating](./images/production_budget_vs_gross_and_rating.png)
 
-Animation, sci-fi, and adventure genres produce the greatest gross profit on average. Mystery and horror movies provide the best return on investment.
+Animation, sci-fi, and adventure genres produce the highest worldwide gross profits on average. Mystery and horror movies provide the best return on investment.
 
 ![gross_and_ROI_by_genre](./images/gross_and_ROI_by_genre.png)
 
-The summer months from May to July and the holiday months from November to December have seen the greatest sum of profits in the last decade.
+The summer months from May to July and the holiday months from November to December have seen the greatest sum of worldwide gross profits in the last decade.
 
 ![sum_gross_by_month](./images/sum_gross_by_month.png)
 
