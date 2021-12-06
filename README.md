@@ -53,7 +53,7 @@ For additional info, contact Benjamin Toler at [bentoler22@gmail.com](mailto:ali
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── LICENSE.md
+└── Movie_Data_Analysis_for_Microsoft.ipynb
 ├── README.md
 ├── presentation.pdf
-└── Movie_Data_Analysis_for_Microsoft.ipynb
 ```
