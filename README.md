@@ -1,4 +1,4 @@
-# Microsoft Movie Analysis
+# Movie Data Analysis for Microsoft
 <img src="./images/Microsoft_image.jpg" alt="Drawing" style="width: 900px;height:300px;float: left;"/>
 
 **Author:** Benjamin Toler
