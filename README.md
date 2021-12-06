@@ -47,11 +47,12 @@ For additional info, contact Benjamin Toler at [bentoler22@gmail.com](mailto:ali
 ## Repository Structure
 
 ```
-├── data
 ├── images
-├── git.ignore
-├── images
-├── images
+├── zippedData
+├── .canvas
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE.md
 ├── README.md
 ├── presentation.pdf
 └── Movie_Data_Analysis_for_Microsoft.ipynb
