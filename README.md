@@ -10,7 +10,7 @@ This project uses exploratory data analysis to produce insights about what facto
 Microsoft is planning on starting their own movie studio, but they are lacking industry knowledge. To guide their decision making in their new studio, they need analysis of what types of movies perform well at the box office.
 
 ## Data
-This project uses datesets from IMBD and The Numbers. The IMDb dataset contains information on various movie attributes, including region of production and genre. IMDb includes movies from 2010 and after, each with their own unique ID. The Numbers provides data on release dates and  movie financials from movies between 1915 to 2020.
+This project uses datasets from IMBD and The Numbers. The IMDb dataset contains information on various movie attributes, including region of production and genre. IMDb includes movies from 2010 and after, each with their own unique ID. The Numbers provides data on release dates and  movie financials from movies between 1915 to 2020.
 
 ## Method
 The analysis deployed in this project uses trending and summary statistics to evaluate the impact of various elements on a movie's success. Success is measured by a movie's gross profit, rating, and/or return on investment (ROI).
