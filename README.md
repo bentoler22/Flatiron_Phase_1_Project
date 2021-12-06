@@ -37,3 +37,22 @@ The summer months from May to July and the holiday months from November to Decem
  - **Determine other factors impact ratings:** Most of this analysis focused on movie features that primarily effected profits. Future modeling should identifier factors that effect movie rating.
  - **Explore the impact of cast and crew on movie success:** This analysis could identify which cast and crew positions (e.g. directors, actors, writers) are most crucial to the the success of a movie.
  - **Analyze the influence that streaming platforms have had on box office returns:** In recent years, streaming platforms have become more prevalent. Looking at the overall trend of box office gross profits could lend insight into the impact streaming has had on the movie industry.
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](./Movie_Data_Analysis_for_Microsoft.ipynb) or review this [presentation](./presentation.pdf).
+
+For additional info, contact Benjamin Toler at [bentoler22@gmail.com](mailto:alison.bentoler22@gmail.com)
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── git.ignore
+├── images
+├── images
+├── README.md
+├── presentation.pdf
+└── Movie_Data_Analysis_for_Microsoft.ipynb
+```
